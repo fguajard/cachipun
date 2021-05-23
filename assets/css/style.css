@@ -1,0 +1,32 @@
+.img-option{
+    height:100px;
+    width: auto;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: scale(0.6);
+    
+
+}
+
+#resultado .jugada{
+    height:170px;
+    width: auto;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform: scale(0.6);
+}
+
+.piedra{
+ background-image: url(../img/piedra.jpg);
+}
+
+.papel{
+background-image: url(../img/papel.jpg);
+}
+
+.tijera{
+background-image: url(../img/tijera.jpg);
+
+}
